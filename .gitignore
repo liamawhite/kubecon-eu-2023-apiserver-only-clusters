@@ -1,0 +1,11 @@
+node_modules
+
+kubeconfig
+gke_gcloud_auth_plugin_cache
+
+workloads/
+
+.pulumi/backups/
+.pulumi/locks/
+.pulumi/history/
+.pulumi/stacks/*.json.*
